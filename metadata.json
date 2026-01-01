@@ -1,0 +1,7 @@
+{
+  "name": "DocuMind AI",
+  "description": "A powerful PDF-based chat assistant using OpenRouter. Features voice interaction, document analysis, and diverse model selection.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
